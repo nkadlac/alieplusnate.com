@@ -14,14 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alie and Nate
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: nate@kadlac.com
-description: > # this means to ignore newlines until "baseurl:"
-  Welcome to our wedding site. We'll be updating this as we continue to get closer to next August.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://alieplusnate.siteleaf.net" # the base hostname & protocol for your site
-twitter_username: kadlac
-github_username:  nkadlac
+description: 'Welcome to our wedding site. We''ll be updating this as we continue
+  to get closer to next August.
 
-# Build settings
+'
+baseurl: ''
+url: http://alieplusnate.siteleaf.net
+twitter_username: kadlac
+github_username: nkadlac
 markdown: kramdown
 theme: minima
