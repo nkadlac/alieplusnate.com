@@ -13,7 +13,7 @@ description: 'Welcome to our wedding site. We''ll be updating this as we continu
   to get closer to next August.
 
 '
-baseurl: ''
+baseurl: 
 url: http://alieplusnate.siteleaf.net
 twitter_username: kadlac
 github_username: nkadlac
