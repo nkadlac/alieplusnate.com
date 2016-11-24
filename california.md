@@ -1,6 +1,7 @@
 ---
 title: Why California?
 permalink: "/california/"
+position: 0
 layout: page
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Our Story
 permalink: "/story/"
+position: 1
 layout: page
 ---
 
