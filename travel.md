@@ -1,6 +1,7 @@
 ---
 title: Travel
 permalink: "/travel/"
+position: 2
 layout: page
 ---
 
