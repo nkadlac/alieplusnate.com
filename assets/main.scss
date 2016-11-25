@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Whitney SSm A", "Whitney SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -21,7 +21,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1200px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -37,3 +37,61 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+
+.home_message {
+  background: url(/assets/images/bg_trees.jpg) left top no-repeat;
+  background-size: cover;
+  color: #FFF;
+  padding: 8em 10em;
+  text-align: center;
+  @media
+    (-webkit-min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi) {
+      /* Retina-specific stuff here */
+      background: url(/assets/images/bg_trees@2x.jpg) left top no-repeat;
+      background-size: cover;
+    }
+    @include media-query($on-palm) {
+        padding: 4em 1em;
+    }
+
+}
+
+.home_title {
+  font-size: 2.5em;
+  font-weight: 700;
+  @include media-query($on-palm) {
+      font-size: 1.5em;
+  }
+}
+
+.home_subtitle {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.site-header {
+  text-align: center;
+  padding: 40px 0 20px 0;
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-nav {
+  float:none;
+}
+
+.site-title {
+  float: none;
+  margin: 0 auto;
+}
+
+.site-nav .page-link {
+  font-weight: 700;
+  color: rgba(0,0,0,.1);
+  text-decoration: line-through;;
+}
