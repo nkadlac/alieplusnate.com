@@ -15,6 +15,7 @@ $spacing-unit:     30px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
+$redwood-color:    #c43301;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -82,16 +83,61 @@ p {
 }
 
 .site-nav {
-  float:none;
+  float: none;
 }
 
 .site-title {
   float: none;
   margin: 0 auto;
+  font-weight: 700;
+  color: #111;
+  transition: all 0.5s ease;
+  text-decoration: none;
+  font-size: 2em;
+}
+
+.site-title:hover {
+  color: $redwood-color;
+  // border-bottom: 1px solid #c43301;
+  text-decoration: none;
+}
+
+.site-title, .site-title:visited {
+  color: inherit;
 }
 
 .site-nav .page-link {
   font-weight: 700;
   color: rgba(0,0,0,.1);
-  text-decoration: line-through;;
+  text-decoration: line-through;
+  float: none;
+  display: inline-block;
+}
+
+/* temporary nav links style ------------- */
+
+.site-nav ul {
+  list-style: none;
+}
+.site-nav ul li {
+  display: inline;
+  padding: 0 2em;
+  // font-weight: 700;
+}
+
+.site-nav ul li a {
+  color: rgba(0,0,0,.4);
+  transition: all 0.7s ease;
+  &:hover {
+    text-decoration: none;
+    color: $redwood-color;
+  }
+}
+
+.site-nav ul li:first-child {
+  padding-left: 0;
+}
+
+.site-nav .selected {
+  color: $redwood-color;
 }

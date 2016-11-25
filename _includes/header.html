@@ -14,12 +14,21 @@
       </span>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
+
+        <ul>
+          <li>
+            <a href="/california/" {% if page.title == 'Why California?' %}class="selected"{% endif %}>Why California?</a>
+          </li>
+          <li>
+            <a href="/story/" {% if page.title == 'Our Story' %}class="selected"{% endif %}>Our Story</a>
+          </li>
+        </ul>
+        <!-- {% for my_page in site.pages %}
           {% if my_page.title %}
-          <!-- <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> -->
-          <p class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <p class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
       </div>
     </nav>
 
