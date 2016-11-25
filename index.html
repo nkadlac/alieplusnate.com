@@ -1,12 +1,25 @@
 ---
 layout: default
+Title: Home
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <!-- <h1 class="page-heading">Posts</h1> -->
 
-  <ul class="post-list">
+  <div class="home_message">
+
+    <h1 class="home_title">Hey! You probably got our save the date or are stalking us. Either way, welcome.</h1>
+
+    <h2 class="home_subtitle">Our wedding will be held on August 19, 2017. We’re still finalizing the details so just chill, and come back soon.</h2>
+
+    <p>(What that really means is that Nate needs a little time to code all of this by hand. )</p>
+
+  </div>
+
+
+
+  <!-- <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -16,8 +29,8 @@ layout: default
         </h2>
       </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
