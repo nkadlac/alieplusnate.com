@@ -1,5 +1,5 @@
 ---
-title: Alie and Nate's California Wedding
+title: Alie & Nate's California Wedding
 timezone: UTC
 collections:
   posts:
@@ -9,11 +9,9 @@ collections:
     title: Uploads
     output: true
 email: nate@kadlac.com
-description: 'Welcome to our wedding site. We''ll be updating this as we continue
-  to get closer to next August.
-
-'
-baseurl: 
+description: Thanks for checking our site out. Its not quite finished. Check back
+  soon.
+baseurl: ''
 url: http://alieplusnate.siteleaf.net
 twitter_username: kadlac
 github_username: nkadlac
