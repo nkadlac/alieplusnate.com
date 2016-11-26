@@ -9,7 +9,8 @@ collections:
     title: Uploads
     output: true
 email: nate@kadlac.com
-description: 'Thanks for checking our site out. Its not quite finished. Check back soon.'
+description: Thanks for checking our site out. Its not quite finished. Check back
+  soon.
 baseurl: ''
 url: http://alieplusnate.siteleaf.net
 twitter_username: kadlac
