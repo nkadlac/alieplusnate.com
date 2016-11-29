@@ -5,6 +5,8 @@ position: 1
 layout: page
 ---
 
+You might be wondering why we chose San Francisco as the location of our wedding. Although most of our family and friends are in the Midwest, California is our current home. It seems most natural to start our marriage in the same city we picked for our "chosen" home. This city is weird and fun and beautiful and challenging, and we hope you enjoy in as much as we do!
+
 San Francisco Neighborhood Guide
 
 If you're considering using Airbnb for lodging for the weekend, you'll need to decide what part of San Francisco you'd like to visit. Here are some of the neighborhoods we recommend, and why we think they're great!
