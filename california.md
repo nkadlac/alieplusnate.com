@@ -17,7 +17,7 @@ Hayes Valley/Cole Valley/Duboce Triangle: All these neighborhoods are in the sam
 
 North Beach: While not as centrally located, North Beach is the "Little Italy" of San Francisco. It has amazing history and jaw dropping views of the Bay. It also has the infamous HUGE San Francisco hills you see in photos, so be warned. Walking around this neighborhood will give you a workout. Russian Hill and Telegraph Hill are the adjacent neighborhoods and are equally gorgeous.
 
-Haight-Ashbury: We live in this 'hood, so we are biased. It's a fascinating mix of tie dye and the last remaining Dead Heads, as well as trendy new boutiques and bars. There is a larger population of street kids on Haight Street asking for money, so not for the faint of heart. But we love all The Haight, with all it's quirks.
+Haight-Ashbury: We live in this 'hood, so we are biased. It's a fascinating mix of tie-dye and the last remaining Dead Heads, as well as trendy new boutiques and bars. There is a larger population of street kids on Haight Street asking for money, so not for the faint of heart. But we love The Haight, with all it's quirks. It's also conveniently located next to Golden Gate Park!
 
 Union Square: Looking for cable cars, sky scrappers and hustle and bustle? Then this is the neighborhood for you. This is also where most of the hotels in San Francisco are located. It's known for being "touristy", but hey, if you're a tourist this may be just what you want!
 
