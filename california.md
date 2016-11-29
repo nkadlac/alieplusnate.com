@@ -11,10 +11,11 @@ You might be wondering why we chose San Francisco as the location of our wedding
 
 If you're considering using Airbnb for lodging for the weekend, you'll need to decide what part of San Francisco you'd like to visit. Here are some of the neighborhoods we recommend, and why we think they're great!
 
-Mission: Best weather in all of San Francisco! It's always sunny and 10 degrees warmer than any other neighborhood. Also hipster heaven! If you like things like craft cocktails, artisan cheese or gourmet coffee, this is the neighborhood for you. It also is historically the most Latino neighborhood - and still is home to all THE best taquerias in the city.
+Mission: Best weather in all of San Francisco! It's always sunny and 10 degrees warmer than any other neighborhood. Also hipster heaven! If you like things like craft cocktails, artisan cheese or gourmet coffee, this is the neighborhood for you. It's historically the most Latino neighborhood in SF - and still is home to all THE best taquerias in the city.
 
-Hayes Valley/Cole Valley/Duboce Triangle: All these neighborhoods are in the same general area. Centrally located in the city, it makes a great home base if you want to explore other areas too! Lots of great shopping and restaurants around here as well.
-North Beach: While not as centrally located, North Beach is the "Little Italy" of San Francisco. It has amazing history and jaw dropping views of the Bay. It also has the infamous HUGE San Francisco hills you see in photos, so be warned. Walking around this neighborhood will give you a workout.
+Hayes Valley/Cole Valley/Duboce Triangle: All these neighborhoods are in the same general area. Centrally located in the city, it makes a great home base if you want to explore other neighborhoods too! Lots of great shopping and restaurants around here as well.
+
+North Beach: While not as centrally located, North Beach is the "Little Italy" of San Francisco. It has amazing history and jaw dropping views of the Bay. It also has the infamous HUGE San Francisco hills you see in photos, so be warned. Walking around this neighborhood will give you a workout. Russian Hill and Telegraph Hill are the adjacent neighborhoods and are equally gorgeous.
 
 Haight-Ashbury: We live in this 'hood, so we are biased. It's a fascinating mix of tie dye and the last remaining Dead Heads, as well as trendy new boutiques and bars. There is a larger population of street kids on Haight Street asking for money, so not for the faint of heart. But we love all The Haight, with all it's quirks.
 
