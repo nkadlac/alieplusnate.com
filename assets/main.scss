@@ -39,12 +39,22 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.page-content {
+  flex: 1;
+}
+
 
 .home_message {
   background: url(/assets/images/bg_trees.jpg) left top no-repeat;
   background-size: cover;
   color: #FFF;
-  padding: 8em 32em 8em 10em;
+  padding: 4em 1em;
   text-align: left;
   @media
     (-webkit-min-device-pixel-ratio: 2),
@@ -53,22 +63,18 @@ $on-laptop:        800px;
       background: url(/assets/images/bg_trees@2x.jpg) left top no-repeat;
       background-size: cover;
     }
-    @include media-query($on-palm) {
-        padding: 4em 1em 1em 8em;
-    }
-    @include media-query($on-laptop) {
-        padding: 8em 8em 6em 10em;
+    @media(min-width: 640px) {
+
     }
     // border-radius: 4px;
 
 }
 
+
 .home_title {
-  font-size: 2.5em;
+  font-size: 1.5em;
   font-weight: 700;
-  @include media-query($on-palm) {
-      font-size: 1.5em;
-  }
+  margin-bottom: 1em;
 }
 
 .home_subtitle {
@@ -81,13 +87,9 @@ p {
 
 .site-header {
   text-align: center;
-  padding: 40px 0 0 0;
+  padding: 40px 0 20px 0;
   border-top: none;
   border-bottom: none;
-}
-
-.site-nav {
-  float: none;
 }
 
 .site-title {
@@ -97,7 +99,7 @@ p {
   color: #111;
   transition: all 0.5s ease;
   text-decoration: none;
-  font-size: 2em;
+  font-size: 1.8em;
 }
 
 .site-title:hover {
@@ -110,22 +112,30 @@ p {
   color: inherit;
 }
 
-.site-nav .page-link {
-  font-weight: 700;
-  color: rgba(0,0,0,.1);
-  text-decoration: line-through;
+/*  nav links style ------------- */
+
+.site-nav {
   float: none;
-  display: inline-block;
+  position: relative;
+  top: auto;
+  right: auto;
+  text-align: inherit;
+  display: flex;
+  flex-direction: column;
+  border: none;
+  @media(min-width: 640px) {
+    flex-direction: row;
+  }
 }
 
-/* temporary nav links style ------------- */
 
 .site-nav ul {
   list-style: none;
 }
+
 .site-nav ul li {
-  display: inline;
-  padding: 0 2em;
+  // display: inline;
+  // padding: 0 2em;
   // font-weight: 700;
 }
 
@@ -147,9 +157,9 @@ p {
 }
 
 article.post {
-  width: 50%;
-  max-width: 960px;
-  margin: 80px auto 0 auto;
+  width: 90%;
+  // max-width: 960px;
+  margin: 0 auto 0 auto;
   font-size: 1.2em;
 
 }
