@@ -31,3 +31,7 @@ Accommodations:
 * VRBO https://www.vrbo.com/
 * Hotel Blocks
 -TBD, check back for more details soon!
+
+Overwhelmed by all the options? Let's chat! 
+Alie: aliesobczak@gmail.com
+Nate: nate@kadlac.com
