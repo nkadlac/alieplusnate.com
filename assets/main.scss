@@ -65,7 +65,7 @@ li {
 .home_message {
   background:
     linear-gradient(
-      rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+      rgba(0, 56, 1, 0.5), rgba(111, 19, 0, 0.)),
       url(/assets/images/bg_trees.jpg) left top no-repeat;
   background-size: cover;
   color: #FFF;
@@ -77,15 +77,17 @@ li {
       /* Retina-specific stuff here */
       background:
       linear-gradient(
-        rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+        rgba(0, 56, 1, 1), rgba(111, 19, 0, 1)),
         url(/assets/images/bg_trees@2x.jpg) left top no-repeat;
       background-size: cover;
     }
     @media(min-width: $med) {
-      padding: 4em 6em;
+      padding: 4em 4em 0 4em;
+      height: 400px;
     }
     @media(min-width: $wide) {
-      padding: 4em 16em;
+      padding: 4em 14em 0 14em;
+      height: 500px;
     }
 }
 
@@ -94,12 +96,35 @@ li {
   font-weight: 700;
   margin-bottom: 1em;
   line-height: 1.4em;
+  @media(min-width: $med) {
+    font-size: 2em;
+  }
+  @media(min-width: $wide) {
+    font-size: 2.8em;
+    margin-bottom: .8em;
+  }
 }
 
 .home_subtitle {
   font-size: 1.2em;
-  line-height: 1.5em;
+  line-height: 3em;
   font-weight: normal;
+  @media(min-width: $med) {
+    line-height: 1.5em;
+  }
+  @media(min-width: $wide) {
+    font-size: 1.3em;
+    line-height: 1.5em;
+  }
+}
+
+.home_message p {
+  font-size: 1em;
+  color: rgba(255,255,255, .7);
+  line-height: 1.5em;
+  @media(min-width: $wide) {
+    font-size: .8em;
+  }
 }
 
 .site-title {
