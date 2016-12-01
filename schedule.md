@@ -13,8 +13,8 @@ layout: page
 
 **The Big Day**: This is where all your dreams come true. Or, at least ours. We can't make any promises about yours.
 
-Stern Grove - Trocadero Clubhouse
-2750 19th Avenue
+Stern Grove - Trocadero Clubhouse<br>
+2750 19th Avenue<br>
 San Francisco, CA 94110
 
 ## Sunday, August 20
