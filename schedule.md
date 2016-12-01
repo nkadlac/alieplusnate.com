@@ -12,7 +12,7 @@ We know a lot of you are taking the time and money to travel across the country 
 
 ## Saturday:
 
-THE BIG DAY
+This is where all your dreams come true. Or, at least ours. We can't make any promises about yours.
 
 ## Sunday:
 
