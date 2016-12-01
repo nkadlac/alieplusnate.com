@@ -1,7 +1,7 @@
 ---
 title: Schedule
 permalink: "/schedule/"
-position: 4
+position: 3
 layout: page
 ---
 
