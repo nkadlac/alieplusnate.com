@@ -1,8 +1,8 @@
 ---
 title: Registry
 permalink: "/registry/"
-position: 3
 published: false
+position: 3
 layout: page
 ---
 
