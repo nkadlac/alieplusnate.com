@@ -32,6 +32,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  font-family: $base-font-family;
 }
 
 .page-content {
@@ -76,14 +77,9 @@ p {
   margin: 0 auto;
   font-weight: 700;
   color: #111;
-  transition: color 0.5s ease;
   text-decoration: none;
-  font-size: 1.8em;
+  font-size: 2em;
   text-align: center;
-  &:hover {
-    color: $redwood-color;
-    text-decoration: none;
-  }
 }
 
 .site-title {
@@ -93,7 +89,9 @@ p {
 .site-title a {
   color: $redwood-color;
   text-decoration: none;
-
+  &:hover {
+    color: $redwood-color;
+  }
 }
 
 /*  nav links style ------------- */
@@ -135,9 +133,14 @@ p {
   color: rgba(0,0,0,.4);
   transition: all 0.7s ease;
   text-decoration: none;
+  -webkit-transition: border 0.2s ease;
+  transition: border 0.2s ease;
+  border-bottom: none;
   &:hover {
     text-decoration: none;
     color: $redwood-color;
+    border-bottom: 1px solid $redwood-color;
+    padding-bottom: .1em;
   }
 }
 
