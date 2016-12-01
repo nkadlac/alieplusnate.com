@@ -15,7 +15,7 @@ layout: page
 
 Stern Grove - Trocadero Clubhouse<br>
 2750 19th Avenue<br>
-San Francisco, CA 94110
+San Francisco, CA 94110<br>
 [View Map]("https://www.google.com/maps/place/Trocadero+Clubhouse/@37.7361793,-122.4773553,17z/data=!4m13!1m7!3m6!1s0x808f7d9607230b99:0xdc23844628562c9b!2s2750+19th+Ave,+San+Francisco,+CA+94132!3b1!8m2!3d37.7361793!4d-122.4751666!3m4!1s0x0:0xe93215d73ebc37b5!8m2!3d37.7361644!4d-122.478177")
 
 ## Sunday, August 20
