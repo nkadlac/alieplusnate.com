@@ -7,7 +7,7 @@ layout: page
 
 It might be possible that you only know Nate. Or maybe you only know Alie. If that's you, here are the basics to get you up to speed:
 
-Alie was born and raised in Mequon, WI, a northern suburb of Milwaukee. After graduating high school, she moved to Minneapolis to attend the University of Minnesota for both undergraduate and graduate school. She currently practices social work at HIP Housing, a nonprofit organization in San Mateo.
+Alie was born and raised in Mequon, WI, a northern suburb of Milwaukee. After graduating high school, she moved to Minneapolis to attend the University of Minnesota for both undergraduate and graduate school. She currently practices social work at [HIP Housing](http://hiphousing.org), a nonprofit organization in San Mateo.
 
 Nate was also a suburban boy, spending his first 20 years in Brooklyn Park, MN. He's lived all over the Twin Cities and has been working as a graphic designer for most his career. When Alie and Nate moved to California, Nate was fortunate enough to keep his job at [HomeSpotter](http://homespotter.com), a startup company in Minneapolis. Nate works remotely from home and travels back to MN for work every few months.
 
