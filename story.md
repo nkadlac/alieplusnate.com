@@ -5,8 +5,6 @@ position: 0
 layout: page
 ---
 
-This site is dedicated to Alie and Nate's wedding, happening on August 19, 2017. If you found this page, you are one lucky S.O.B.
-
 It might be possible that you only know Nate. Or maybe you only know Alie. If that's you, here are the basics to get you up to speed:
 
 Alie was born and raised in Mequon, WI, a northern suburb of Milwaukee. After graduating high school, she moved to Minneapolis to attend the University of Minnesota for both undergraduate and graduate school. She currently practices social work at HIP Housing, a nonprofit organization in San Mateo.
