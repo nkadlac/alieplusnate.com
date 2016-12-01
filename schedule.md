@@ -12,15 +12,7 @@ We know a lot of you are taking the time and money to travel across the country 
 
 ## Saturday:
 
-THE BIG DAY
-
-Stern Grove - Trocadero Clubhouse
-
-2750 19th Avenue
-
-San Francisco, CA 94110
-
-\(between 19th Ave. & Sloat Blvd.)
+This is where all your dreams come true. Or, at least ours. We can't make any promises about yours.
 
 ## Sunday:
 
