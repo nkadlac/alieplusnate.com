@@ -12,7 +12,7 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
 **From the airport:**
 
 * **[Uber](https://get.uber.com/sign-up/?exp=home_signup_form)**
-  -Uber originated in San Francisco (go figure). As a result, it's pretty dang hard to hail a cab in the city these days. Uber and Lyft are the prefered modes of transportation - and the cheapest! If you don't already use Uber, make sure you download the app on  your phone and set up your account before you get here. San Francisco also has UberPool (you'll be matched with another rider going in your same general direction), which is the cheapest option of them all. We use UberPool all the time and love it. It'll save you some money on a otherwise expensive cab ride from the airport into the city. UberPool fares from SFO to the city range from $17-25ish. Want more info on how to use Uber? Call or email us!
+  -Uber originated in San Francisco (go figure). As a result, it's pretty dang hard to hail a cab in the city these days. Uber and Lyft are the prefered modes of transportation - and the cheapest! If you don't already use Uber, make sure you download the app on  your phone and set up your account before you get here. San Francisco also has UberPool (you'll be matched with another rider going in your same general direction), which is the cheapest option of them all. We use UberPool all the time and love it. It'll save you some money on an otherwise expensive cab ride from the airport into the city. UberPool fares from SFO to the city range from $17-25ish. Want more info on how to use Uber? Call or email us!
 
 * **[Lyft](https://www.lyft.com/)**
   -See above. Same thing, different company. Instead of UberPool, these guys call the same concept Lyft Line.
