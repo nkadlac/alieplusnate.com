@@ -194,8 +194,6 @@ li {
 
 .site-header {
   padding: 20px 0 20px 0;
-  border-top: none;
-  border-bottom: none;
   display: flex;
   flex-direction: column;
   @media(min-width: $med) {
@@ -208,10 +206,12 @@ li {
     justify-content: space-between;
     width: 60%;
     margin: 0 auto;
-    padding: 40px 0 60px 0;
+    padding: 40px 0 0px 0;
+    // border-bottom: 2px dotted #eaeaea;
   }
   @media(min-width: $ex-wide) {
     width: 50%;
+    // border-bottom: 2px dotted #eaeaea;
   }
 }
 
@@ -224,6 +224,11 @@ li {
   }
   @media(min-width: $wide) {
     flex-wrap: wrap;
+    font-size: .8em;
+  }
+  @media(min-width: $ex-wide) {
+    // flex-wrap: wrap;
+    font-size: .9em;
   }
 }
 
@@ -259,6 +264,8 @@ article.post {
   }
   @media(min-width: $wide) {
     width: 60%;
+    margin-top: 80px;
+
   }
   @media(min-width: $ex-wide) {
     width: 50%;
@@ -298,6 +305,7 @@ article.post p {
   }
   @media(min-width: $ex-wide) {
     line-height: 1.8em;
+
   }
 }
 
