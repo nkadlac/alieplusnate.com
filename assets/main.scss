@@ -249,13 +249,17 @@ article.post p {
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 80px 10% 20px 10%;
-  border-top: none;
+  // border-top: none;
 }
 
 .footer-col {
   text-align: center;
   float: none;
-  color: #999;
+}
+
+.footer-col p {
+  font-size: .8em;
+  color: #CCC;
 }
 
 .footer-graphic {
