@@ -1,7 +1,7 @@
 ---
 title: Travel
 permalink: "/travel/"
-position: 2
+position: 4
 layout: page
 ---
 
@@ -9,10 +9,10 @@ Airports: Both San Francisco (SFO) and Oakland (OAK) airports are options for fl
 
 From the airport:
 
-* Uber https://get.uber.com/sign-up/?exp=home_signup_form 
+* Uber https://get.uber.com/sign-up/?exp=home_signup_form
 -Uber originated in San Francisco (go figure). As a result, it's pretty dang hard to hail a cab in the city these days. Uber and Lyft are the prefered modes of transportation - and the cheapest! If you don't already use Uber, make sure you download the app on  your phone and set up your account before you get here. San Francisco also has UberPool (you'll be matched with another rider going in your same general direction), which is the cheapest option of them all. We use UberPool all the time and love it. It'll save you some money on a otherwise expensive cab ride from the airport into the city. UberPool fares range from $17-25ish. Want more info on how to use Uber? Call or email us!
 * Lyft https://www.lyft.com/
--See above. Same thing, different company. Instead of UberPool, these guys call the same concept Lyft Line. 
+-See above. Same thing, different company. Instead of UberPool, these guys call the same concept Lyft Line.
 
 * BART/MUNI https://www.bart.gov/ & https://www.sfmta.com/
 -The Bay Area's public transportaion sytstems. Slowest but cheapest way to get from the airport to the city. Bay Area Rapid Transit (BART) services the *whole* Bay Area, including the Peninsula, San Francisco, Oakland and East Bay. San Francisco Municipal Transportation Agency (MUNI) only serives the City of San Francisco. In order to get from the airport to the city, you'll need to take a combination of trains on buses through these two systems. Confused? You're not alone. Shoot us an email if you want more detailed directions!
@@ -32,6 +32,6 @@ Accommodations:
 * Hotel Blocks
 -TBD, check back for more details soon!
 
-Overwhelmed by all the options? Let's chat! 
+Overwhelmed by all the options? Let's chat!
 Alie: aliesobczak@gmail.com
 Nate: nate@kadlac.com

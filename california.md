@@ -24,4 +24,3 @@ Union Square: Looking for cable cars, sky scrappers and hustle and bustle? Then 
 P.S.  You may think to yourself, "I'm traveling all the way to California, I want to stay by the beach!" Which makes total sense. But please note, the beach in San Francisco can be chilly and foggy, especially in the summer. This is NorCal, not LA. So by all means, stay by the beach but bring sweatshirts and jeans. You won't be doing any sunbathing or swimming here. But the views from Ocean Beach are stunning, fog and all.
 
 P.P.S. San Francisco has one of the largest homeless populations in the country. There are certain neighborhoods where the homeless are more visible than others. These neighborhoods include the Tenderloin, Civic Center and SoMa. While mostly harmless, it can be shocking and upsetting to see this side of our city. Please plan your lodging accordingly.
-
