@@ -14,6 +14,14 @@ We know a lot of you are taking the time and money to travel across the country 
 
 THE BIG DAY
 
+Stern Grove - Trocadero Clubhouse
+
+2750 19th Avenue
+
+San Francisco, CA 94110
+
+\(between 19th Ave. & Sloat Blvd.)
+
 ## Sunday:
 
 **Hangover Brunch**
