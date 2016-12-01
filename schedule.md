@@ -8,7 +8,7 @@ layout: page
 ## Friday:
 
 **Welcome Party**
-We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is **everything** to us. We want to maximize our time with each and everyone of you, so we're going to do an open-house style welcome reception. Come say hi and drink a beer. More details coming soon.
+We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you, so we're going to do an open-house style welcome reception. Come say hi and drink a beer. More details coming soon.
 
 ## Saturday:
 
