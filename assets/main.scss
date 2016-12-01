@@ -63,20 +63,29 @@ li {
 
 
 .home_message {
-  background: url(/assets/images/bg_trees.jpg) left top no-repeat;
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+      url(/assets/images/bg_trees.jpg) left top no-repeat;
   background-size: cover;
   color: #FFF;
-  padding: 4em 1em;
+  padding: 2em 1em;
   text-align: left;
   @media
     (-webkit-min-device-pixel-ratio: 2),
     (min-resolution: 192dpi) {
       /* Retina-specific stuff here */
-      background: url(/assets/images/bg_trees@2x.jpg) left top no-repeat;
+      background:
+      linear-gradient(
+        rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+        url(/assets/images/bg_trees@2x.jpg) left top no-repeat;
       background-size: cover;
     }
     @media(min-width: $med) {
-
+      padding: 4em 6em;
+    }
+    @media(min-width: $wide) {
+      padding: 4em 16em;
     }
 }
 
@@ -84,10 +93,13 @@ li {
   font-size: 1.5em;
   font-weight: 700;
   margin-bottom: 1em;
+  line-height: 1.4em;
 }
 
 .home_subtitle {
-  font-size: 1.5em;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  font-weight: normal;
 }
 
 .site-title {
@@ -136,7 +148,7 @@ li {
     justify-content: space-between;
     width: 60%;
     margin: 0 auto;
-    padding: 40px 0 100px 0;
+    padding: 40px 0 60px 0;
   }
 }
 
@@ -179,6 +191,9 @@ article.post {
   width: 90%;
   margin: 0 auto 0 auto;
   font-size: 1.2em;
+  @media(min-width: $med) {
+    width: 80%;
+  }
   @media(min-width: $wide) {
     width: 60%;
   }
