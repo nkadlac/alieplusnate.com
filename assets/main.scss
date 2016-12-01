@@ -25,7 +25,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    100%;
 $med:        400px;
-$wide:       769px;
+$wide:       920px;
 
 
 body {
@@ -91,8 +91,6 @@ li {
 }
 
 .site-title {
-  // float: none;
-  // margin: 0 auto;
   font-weight: 700;
   color: #111;
   text-decoration: none;
@@ -101,10 +99,15 @@ li {
   font-family: "didoni-urw", sans-serif;
   font-style: normal;
   font-weight: 400;
-}
-
-.site-title {
-    margin-bottom: 1em;
+  margin-bottom: 1em;
+  @media(min-width: $med) {
+    // display: flex;
+    font-size: 2.5em;
+  }
+  @media(min-width: $wide) {
+    // display: flex;
+    font-size: 1.5em;
+  }
 }
 
 .site-title a {
@@ -145,6 +148,7 @@ li {
     display: flex;
   }
   @media(min-width: $wide) {
+    flex-wrap: wrap;
   }
 }
 
