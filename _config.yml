@@ -12,8 +12,7 @@ email: nate@kadlac.com
 description: Thanks for checking our site out. Its not quite finished. Check back
   soon.
 baseurl: ''
-url: http://alieplusnate.siteleaf.net
+url: http://alieplusnate.com
 twitter_username: kadlac
 github_username: nkadlac
 markdown: kramdown
-theme: minima

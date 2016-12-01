@@ -1,23 +1,29 @@
 <header class="site-header" role="banner">
 
-    <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+  <h1 class="site-title"><a href="{{ "/" | relative_url}}">{{ site.title | escape }}</a></h1>
 
-    <nav class="site-nav">
-        <ul>
+    <!-- <nav class="site-nav">
+        <ul class="nav">
           <li>
             <a href="/california/" {% if page.title == 'Why California?' %}class="selected"{% endif %}>Why California?</a>
           </li>
           <li>
             <a href="/story/" {% if page.title == 'Our Story' %}class="selected"{% endif %}>Our Story</a>
           </li>
-        </ul>
-        <!-- {% for my_page in site.pages %}
-          {% if my_page.title %}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            <p class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}
-          {% endif %}
-        {% endfor %} -->
-      </div>
-    </nav>
+        </ul> -->
+  <ul class="nav">
+  {% for my_page in site.pages %}
+
+    {% if my_page.title %}
+    <li>
+      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+      <!-- <p class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }} -->
+    </li>
+    {% endif %}
+
+  {% endfor %}
+  </ul>
+      <!-- </div> -->
+    <!-- </nav> -->
 
 </header>
