@@ -29,6 +29,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 $content-width:    100%;
 $med:        400px;
 $wide:       920px;
+$ex-wide:       1300px;
 
 
 body {
@@ -81,7 +82,7 @@ li {
       background:
       linear-gradient(
         rgba(0, 56, 1, .5), rgba(111, 19, 0, .5)),
-        url(/assets/images/bg_trees@2x.jpg) 40% center no-repeat;
+        url(/assets/images/bg_trees@2x.jpg) 40% top no-repeat;
       background-size: cover;
     }
     @media(min-width: $med) {
@@ -90,7 +91,11 @@ li {
     }
     @media(min-width: $wide) {
       padding: 4em 14em 0 14em;
-      height: 500px;
+      height: 540px;
+    }
+    @media(min-width: $ex-wide) {
+      padding: 8em 30em 0 20em;
+      height: 540px;
     }
 }
 
@@ -105,6 +110,7 @@ li {
   @media(min-width: $wide) {
     font-size: 2.8em;
     margin-bottom: .8em;
+    line-height: 1.2em;
   }
 }
 
@@ -146,7 +152,10 @@ li {
   }
   @media(min-width: $wide) {
     // display: flex;
-    font-size: 1.5em;
+    font-size: 1.8em;
+  }
+  @media(min-width: $ex-wide) {
+    font-size: 2.5em;
   }
 }
 
@@ -156,6 +165,7 @@ li {
   &:hover {
     color: $redwood-color;
   }
+
 }
 
 /*  nav links style ------------- */
@@ -177,6 +187,9 @@ li {
     width: 60%;
     margin: 0 auto;
     padding: 40px 0 60px 0;
+  }
+  @media(min-width: $ex-wide) {
+    width: 50%;
   }
 }
 
@@ -225,6 +238,10 @@ article.post {
   @media(min-width: $wide) {
     width: 60%;
   }
+  @media(min-width: $ex-wide) {
+    width: 50%;
+    font-size: 1.4em;
+  }
 }
 
 .post-title {
@@ -241,8 +258,14 @@ article.post {
 }
 
 article.post p {
-  line-height: 1.5em;
-  margin-bottom: 1em;
+  line-height: 1.6em;
+  margin-bottom: 1.3em;
+  @media(min-width: $wide) {
+    line-height: 1.6em;
+  }
+  @media(min-width: $ex-wide) {
+    line-height: 1.8em;
+  }
 }
 
 .site-footer {
