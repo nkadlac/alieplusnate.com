@@ -257,3 +257,10 @@ article.post p {
   float: none;
   color: #999;
 }
+
+.footer-graphic {
+  width: 149px;
+  height: 67px;
+  display: inline-block;
+  @include retina('/assets/images/tree-ill.png', 3, 149px 67px, left top no-repeat);
+}
