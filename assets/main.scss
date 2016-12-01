@@ -73,8 +73,11 @@ li {
       url(/assets/images/bg_trees.jpg) left top no-repeat;
   background-size: cover;
   color: #FFF;
-  padding: 2em 1em 4em 1em;
+  align-items: center;
+  display: flex;
+  // padding: 2em 1em 4em 1em;
   text-align: left;
+  height: 380px;
   @media
     (-webkit-min-device-pixel-ratio: 2),
     (min-resolution: 192dpi) {
@@ -86,17 +89,34 @@ li {
       background-size: cover;
     }
     @media(min-width: $med) {
-      padding: 4em 4em 0 4em;
-      height: 400px;
+      // padding: 4em 4em 0 4em;
+      height: 480px;
     }
     @media(min-width: $wide) {
-      padding: 4em 14em 0 14em;
+      // padding: 4em 14em 0 14em;
       height: 540px;
     }
     @media(min-width: $ex-wide) {
-      padding: 8em 30em 0 20em;
+      // padding: 8em 30em 0 20em;
       height: 540px;
     }
+}
+
+.home_message .container {
+  // align-self: center;
+  // margin: ;
+  padding: auto 1em;
+  width: 90%;
+  margin: auto;
+  @media(min-width: $med) {
+    width: 75%;
+  }
+  @media(min-width: $wide) {
+    width: 60%;
+  }
+  @media(min-width: $ex-wide) {
+    width: 50%;
+  }
 }
 
 .home_title {
