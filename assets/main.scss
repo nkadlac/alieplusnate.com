@@ -2,7 +2,10 @@
 ---
 
 @charset "utf-8";
-@import "normalize";
+@import
+  "normalize",
+  "retina";
+
 
 // Our variables
 $base-font-family: "Whitney SSm A", "Whitney SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif;
