@@ -12,16 +12,16 @@
           </li>
         </ul> -->
   <ul class="nav">
-  {% for my_page in site.pages %}
-
-    {% if my_page.title %}
-    <li>
-      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-      <!-- <p class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }} -->
-    </li>
-    {% endif %}
-
-  {% endfor %}
+    {% assign my_pages = site.pages | sort: "position" %}
+      {% for p in my_pages %}
+        {% if p.position %}
+        <li>
+          <a href="{{ p.url }}" {% if p.url == page.url %}class="selected"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endif %}
+    {% endfor %}
   </ul>
       <!-- </div> -->
     <!-- </nav> -->
