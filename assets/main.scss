@@ -1,7 +1,7 @@
 ---
 ---
-
 @charset "utf-8";
+@import "normalize";
 
 // Our variables
 $base-font-family: "Whitney SSm A", "Whitney SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -23,21 +23,9 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    100%;
+$med:        400px;
+$wide:       769px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-
-// Import partials from the `minima` theme.
-@import "minima";
 
 body {
   display: flex;
@@ -63,13 +51,10 @@ body {
       background: url(/assets/images/bg_trees@2x.jpg) left top no-repeat;
       background-size: cover;
     }
-    @media(min-width: 640px) {
+    @media(min-width: $med) {
 
     }
-    // border-radius: 4px;
-
 }
-
 
 .home_title {
   font-size: 1.5em;
@@ -85,80 +70,82 @@ p {
   font-size: 1em;
 }
 
-.site-header {
-  text-align: center;
-  padding: 40px 0 20px 0;
-  border-top: none;
-  border-bottom: none;
-}
-
 .site-title {
   float: none;
   margin: 0 auto;
   font-weight: 700;
   color: #111;
-  transition: all 0.5s ease;
+  transition: color 0.5s ease;
   text-decoration: none;
   font-size: 1.8em;
+  text-align: center;
+  &:hover {
+    color: $redwood-color;
+    text-decoration: none;
+  }
 }
 
-.site-title:hover {
+.site-title {
+    margin-bottom: 1em;
+}
+
+.site-title a {
   color: $redwood-color;
-  // border-bottom: 1px solid #c43301;
   text-decoration: none;
-}
 
-.site-title, .site-title:visited {
-  color: inherit;
 }
 
 /*  nav links style ------------- */
 
-.site-nav {
-  float: none;
-  position: relative;
-  top: auto;
-  right: auto;
-  text-align: inherit;
+.site-header {
+  padding: 40px 0 20px 0;
+  border-top: none;
+  border-bottom: none;
   display: flex;
   flex-direction: column;
-  border: none;
-  @media(min-width: 640px) {
+  @media(min-width: $med) {
+    align-items: center;
+  }
+  @media(min-width: $wide) {
+    align-items: center;
     flex-direction: row;
+    justify-content: space-between;
   }
 }
 
-
-.site-nav ul {
+.nav {
   list-style: none;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  @media(min-width: $med) {
+    display: flex;
+  }
+  @media(min-width: $wide) {
+
+  }
 }
 
-.site-nav ul li {
-  // display: inline;
-  // padding: 0 2em;
-  // font-weight: 700;
+.nav li {
+  padding: .5em .5em;
 }
 
-.site-nav ul li a {
+.nav a {
   color: rgba(0,0,0,.4);
   transition: all 0.7s ease;
+  text-decoration: none;
   &:hover {
     text-decoration: none;
     color: $redwood-color;
   }
 }
 
-.site-nav ul li:first-child {
-  padding-left: 0;
-}
-
-.site-nav .selected {
+.nav .selected {
   color: $redwood-color;
 }
 
 article.post {
   width: 90%;
-  // max-width: 960px;
   margin: 0 auto 0 auto;
   font-size: 1.2em;
 
