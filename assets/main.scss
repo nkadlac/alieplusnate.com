@@ -162,8 +162,10 @@ li {
 .site-title a {
   color: $redwood-color;
   text-decoration: none;
+  transition: all 0.2s ease;
   &:hover {
-    color: $redwood-color;
+    color: rgba(0,0,0,1);
+    border-bottom: 4px solid #333;
   }
 
 }
@@ -213,7 +215,7 @@ li {
   color: rgba(0,0,0,.4);
   text-decoration: none;
   -webkit-transition: border 0.2s ease;
-  // transition: border 0.2s ease;
+  transition: all 0.2s ease;
   border-bottom: none;
   &:hover {
     text-decoration: none;
