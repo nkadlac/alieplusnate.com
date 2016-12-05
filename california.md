@@ -9,7 +9,7 @@ You might be wondering why we chose San Francisco as the location of our wedding
 
 ## San Francisco Neighborhood Guide
 
-If you're considering using Airbnb for lodging for the weekend, you'll need to decide what part of San Francisco you'd like to visit. Here are some of the neighborhoods we recommend, and why we think they're great!
+If you're considering using Airbnb for lodging for the weekend, you'll need to decide what part of San Francisco you'd like to visit. Here are some of the neighborhoods we recommend and why we think they're great!
 
 **Mission:** Best weather in all of San Francisco! It's always sunny and 10 degrees warmer than any other neighborhood. Also hipster heaven! If you like things like craft cocktails, artisan cheese or gourmet coffee, this is the neighborhood for you. It's historically the most Latino neighborhood in SF - and still is home to all THE best taquerias in the city.
 
