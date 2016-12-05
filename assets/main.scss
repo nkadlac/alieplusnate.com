@@ -343,18 +343,18 @@ article.post p {
   display: flex;
   // flex-wrap: wrap;
   flex-flow: column wrap;
-  margin: .5em auto;
+  margin: .5em 1%;
   justify-content: flex-start;
   align-items: flex-start;
-  height: auto;
+  height: 1000px;
   @media(min-width: $med) {
     height: 700px;
   }
   @media(min-width: $wide) {
-    height: 1000px;
+    height: 1200px;
   }
   @media(min-width: $ex-wide) {
-    height: 1200px;
+    height: 1500px;
   }
 
 }
@@ -364,16 +364,16 @@ article.post p {
   width: 100%;
 
   @media(min-width: $med) {
-    width: 50%;
-    margin: .5em;
+    width: 48%;
+    margin: 1%;
   }
   @media(min-width: $wide) {
-    width: 50%;
-    margin: .5em;
+    width: 48%;
+    margin: 1%;
   }
   @media(min-width: $ex-wide) {
-    width: 50%;
-    margin: .5em;
+    width: 48%;
+    margin: 1%;
   }
 }
 
