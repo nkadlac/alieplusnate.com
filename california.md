@@ -5,7 +5,7 @@ position: 1
 layout: page
 ---
 
-![sf_fog.jpg](/uploads/sf_fog.jpg)
+![sfbridge.jpg](/uploads/sfbridge.jpg)
 
 You might be wondering why we chose San Francisco as the location of our wedding. Although most of our family and friends are in the Midwest, California is our current home. It seems most natural to start our marriage in the same city we picked for our "chosen" home. This city is weird and fun and beautiful and challenging and we hope you enjoy it as much as we do!
 
