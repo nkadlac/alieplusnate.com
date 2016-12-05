@@ -341,40 +341,48 @@ article.post p {
 
 .grid {
   display: flex;
-  // flex-wrap: wrap;
-  flex-flow: column wrap;
-  margin: .5em auto;
-  justify-content: flex-start;
+  flex-wrap: wrap;
+  // flex-flow: column wrap;
+  // margin: .5em 1%;
+  // justify-content: flex-start;
   align-items: flex-start;
-  height: auto;
+  flex: 1;
+  // height: 1000px;
+  justify-content: space-between;
+  // max-width: 400px;
   @media(min-width: $med) {
-    height: 700px;
+    // height: 700px;
   }
   @media(min-width: $wide) {
-    height: 1000px;
+    // height: 1200px;
   }
   @media(min-width: $ex-wide) {
-    height: 1200px;
+    // height: 1500px;
   }
 
 }
 
-.photo {
-  height: auto;
+.col {
+  // height: auto;
   width: 100%;
+  // display: inline-block;
 
   @media(min-width: $med) {
-    width: 50%;
-    margin: .5em;
+    width: 48%;
+    margin: 1%;
   }
   @media(min-width: $wide) {
-    width: 50%;
-    margin: .5em;
+    // width: 48%;
+    // margin: 1%;
   }
   @media(min-width: $ex-wide) {
-    width: 50%;
-    margin: .5em;
+    // width: 48%;
+    // margin: 1%;
   }
+}
+
+.photo {
+  margin:5px auto 0 auto;
 }
 
 img {
