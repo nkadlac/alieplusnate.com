@@ -19,4 +19,4 @@ After dating for 2.5 years in Minneapolis, Alie and Nate picked up their stuff (
 
 Check out a little video of the proposal here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dbsUd2B4d3A" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dbsUd2B4d3A" frameborder="0" allowfullscreen></iframe>
