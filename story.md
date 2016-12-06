@@ -17,6 +17,6 @@ Like the typical modern couple, Alie and Nate met on the internet in the summer 
 
 After dating for 2.5 years in Minneapolis, Alie and Nate picked up their stuff (and only 1 of the 3 dogs) and moved to San Francisco, where they've been ever since. On September 8 of 2016, while vacationing in Italy with the Sobczaks and celebrating Robert and Marleen's 40th wedding anniversary, Nate proposed on a beach in the Mediterranean.
 
-Check out a little video of the proposal here:
+Check out a little vid of the proposal here:
 
 <iframe width="560px" height="315px" src="https://www.youtube.com/embed/dbsUd2B4d3A" frameborder="0" allowfullscreen></iframe>
