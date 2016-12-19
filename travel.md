@@ -17,8 +17,6 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
 * [Hilton Union Square](http://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html)
 -We have 25 rooms booked at the Hilton
 
-* Hotel Blocks
-  -TBD, check back for more details soon!
 
 ## From the airport:
 
