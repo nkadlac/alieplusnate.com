@@ -10,12 +10,30 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
 
 ## Accommodations:
 
-* [Airbnb](https://www.airbnb.com/)
+<div class="accomodations">
 
-* [VRBO](https://www.vrbo.com/)
+  <div class="col airbnb">
+    <a href="http://airbnb.com">
+      <div class="logo"><img src="/assets/images/airbnb.png" /></div>
+      <p>Our recommended way to book, where you might be able to find the cheapest and most interesting places to stay.</p>
+    </a>
+  </div>
 
-* [Hilton Union Square](http://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html)
--We have 25 rooms booked at the Hilton
+  <div class="col vrbo">
+    <a href="http://vrbo.com">
+      <div class="logo"><img src="/assets/images/vrbo.png" /></div>
+      <p>Check here if you can't find any options on AirBnB. Similar service, although not every place accepts online payments.</p>
+    </a>
+  </div>
+
+  <div class="col hilton">
+    <a href="http://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html">
+      <div class="logo"><img src="/assets/images/hilton.png" /></div>
+      <p>Hilton Union Square. We have blocked 25 rooms starting at $210/night.</p>
+    </a>
+  </div>
+
+</div>
 
 
 ## From the airport:

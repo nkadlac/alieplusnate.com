@@ -66,6 +66,71 @@ li {
 }
 
 
+.accomodations {
+  display: flex;
+  margin-top: 10px;
+  flex-direction: column;
+  @media(min-width: $med) {
+    margin-top: 50px;
+    flex-direction: row;
+  }
+}
+
+.accomodations a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.accomodations .logo img {
+  vertical-align: middle;
+  // padding: 40px;
+  width: 60%;
+  @media(min-width: $med) {
+    width: 100%;
+  }
+}
+
+.accomodations .col {
+  flex: 1;
+  // padding: 1em;
+  display: flex;
+  border: 1px solid #EAEAEA;
+  margin: 20px auto;
+  border-radius: 4px;
+  transition: all .3s ease;
+  text-align: center;
+  // flex-direction: column;
+  @media(min-width: $med) {
+    margin: 0 1%;
+    padding: 1em;
+    // margin: 20px 1%;
+    // text-align: left;
+  }
+  &:hover {
+    background: #f7f7f7;
+  }
+}
+
+.accomodations .col p {
+  color: #666;
+  font-size: .8em;
+  padding: 1em;
+  // align-self: flex-end;
+  flex: 1;
+  // height: 20vh;
+  @media(min-width: $med) {
+    font-size: .5em;
+    padding: 0;
+  }
+  @media(min-width: $wide) {
+    font-size: .6em;
+  }
+}
+
 .home_message {
   background:
     linear-gradient(
