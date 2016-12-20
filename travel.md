@@ -16,6 +16,7 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
     <a href="http://airbnb.com">
       <div class="logo"><img src="/assets/images/airbnb.png" /></div>
       <p>Our recommended way to book, where you might be able to find the cheapest and most interesting places to stay.</p>
+      <button class="book">Visit Site</button>
     </a>
   </div>
 
@@ -23,13 +24,15 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
     <a href="http://vrbo.com">
       <div class="logo"><img src="/assets/images/vrbo.png" /></div>
       <p>Check here if you can't find any options on AirBnB. Similar service, although not every place accepts online payments.</p>
+      <button class="book">Visit Site</button>
     </a>
   </div>
 
   <div class="col hilton">
-    <a href="http://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html">
+    <a href="http://www.hilton.com/en/hi/groups/personalized/S/SFOFHHH-60V-20170818/index.jhtml?WT.mc_id=POG">
       <div class="logo"><img src="/assets/images/hilton.png" /></div>
-      <p>Hilton Union Square. We have blocked 25 rooms starting at $210/night.</p>
+      <p>Hilton Union Square. We have blocked 25 rooms starting at $212/night.</p>
+      <button class="book">Book Room</button>
     </a>
   </div>
 
@@ -37,6 +40,7 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
     <a href="http://www.wsanfrancisco.com">
       <div class="logo"><img src="/assets/images/whotel.png" /></div>
       <p>The W in SOMA (South of Market). We have blocked 10 rooms at $219/night.</p>
+      <button class="book">Book Room</button>
     </a>
   </div>
 

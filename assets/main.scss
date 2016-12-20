@@ -83,6 +83,10 @@ li {
   &:hover {
     text-decoration: none;
   }
+  @media(min-width: $med) {
+    // flex-direction: row;
+    // width: 100%;
+  }
 }
 
 .accomodations .logo img {
@@ -141,6 +145,22 @@ li {
   @media(min-width: $ex-wide) {
     font-size: .585em;
     padding: 1.5em 0 0 0;
+  }
+}
+
+.book {
+  border: 1px solid #333;
+  background: #FFF;
+  font-size: .6em;
+  padding: 10px 15%;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #333;
+  margin: 15px 0;
+  &:hover {
+    background: #FFF;
+    border: 1px solid $redwood-color;
+    color: $redwood-color;
   }
 }
 
