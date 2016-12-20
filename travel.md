@@ -33,6 +33,13 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
     </a>
   </div>
 
+  <div class="col thew">
+    <a href="http://www.wsanfrancisco.com">
+      <div class="logo"><img src="/assets/images/whotel.png" /></div>
+      <p>The W in SOMA (South of Market). We have blocked 10 rooms at $219/night.</p>
+    </a>
+  </div>
+
 </div>
 
 
