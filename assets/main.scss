@@ -69,10 +69,10 @@ li {
 .accomodations {
   display: flex;
   margin-top: 10px;
-  flex-direction: column;
+  flex-flow: column wrap;
   @media(min-width: $med) {
-    margin-top: 50px;
-    flex-direction: row;
+    margin-top: 30px;
+    flex-flow: row wrap;
   }
 }
 
@@ -87,28 +87,38 @@ li {
 
 .accomodations .logo img {
   vertical-align: middle;
-  // padding: 40px;
   width: 60%;
   @media(min-width: $med) {
-    width: 100%;
+    width: 50%;
+  }
+  @media(min-width: $wide) {
+    width: 70%;
+  }
+  @media(min-width: $ex-wide) {
+    width: 90%;
   }
 }
 
 .accomodations .col {
   flex: 1;
-  // padding: 1em;
   display: flex;
   border: 1px solid #EAEAEA;
   margin: 20px auto;
   border-radius: 4px;
   transition: all .3s ease;
   text-align: center;
-  // flex-direction: column;
   @media(min-width: $med) {
-    margin: 0 1%;
+    flex: 1 40%;
+    margin: 1% 1%;
     padding: 1em;
-    // margin: 20px 1%;
-    // text-align: left;
+    min-width: 100px;
+  }
+  @media(min-width: $wide) {
+    flex-basis: 35%;
+    padding: .5em;
+  }
+  @media(min-width: $ex-wide) {
+    flex-basis: 0;
   }
   &:hover {
     background: #f7f7f7;
@@ -118,16 +128,18 @@ li {
 .accomodations .col p {
   color: #666;
   font-size: .8em;
-  padding: 1em;
-  // align-self: flex-end;
+  padding: 0 1em 1em 1em;
   flex: 1;
-  // height: 20vh;
+  margin: 0;
   @media(min-width: $med) {
     font-size: .5em;
-    padding: 0;
+    padding: 1em;
   }
   @media(min-width: $wide) {
-    font-size: .6em;
+    font-size: .5em;
+  }
+  @media(min-width: $ex-wide) {
+    font-size: .585em;
   }
 }
 
