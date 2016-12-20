@@ -8,7 +8,7 @@ layout: page
 Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into the Bay Area. From our house in Haight-Ashbury, it's about equal driving distance to both. Pick whichever is cheapest and most convenient for you!
 
 
-## Accommodations:
+## Hotel Accommodations:
 
 <div class="accomodations">
 
