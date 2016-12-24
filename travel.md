@@ -13,7 +13,7 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
 <div class="accomodations">
 
   <div class="col airbnb">
-    <a href="http://airbnb.com">
+    <a href="http://www.airbnb.com/c/nkadlac">
       <div class="logo"><img src="/assets/images/airbnb.png" /></div>
       <p>Our recommended way to book, where you might be able to find the cheapest and most interesting places to stay.</p>
       <button class="book">Visit Site</button>
