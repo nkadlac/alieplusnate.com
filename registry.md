@@ -13,6 +13,7 @@ We've "registered" our trip to Hawaii [here,](https://www.blueprintregistry.com/
 
 
 Thirdly, we'd love just as much if you made a donation to one of our favorite nonprofits in our name. These three are near and dear to our hearts:
+
 [HIP Housing](http://hiphousing.org/) 
 
 [SF Society for the Protection of Crulity to Animals ](https://www.sfspca.org/)
