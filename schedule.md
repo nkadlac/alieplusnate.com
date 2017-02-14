@@ -13,6 +13,8 @@ layout: page
 
 **The Big Day**: This is where all your dreams come true. Or, at least ours. We can't make any promises about yours.
 
+Cocktail Attire. Please note the ceremony and dinner will take place outdoors, with dancing and drinks to follow inside. The ground is uneven in many spots, stilettos and pointy heels are not recommended.
+
 Stern Grove - Trocadero Clubhouse<br>
 2750 19th Avenue<br>
 San Francisco, CA 94110<br>
