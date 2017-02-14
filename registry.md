@@ -12,7 +12,7 @@ It's also worth noting that since we've both been living as adults in our own ho
 We've "registered" our trip to Hawaii here, along with a few home goods that could use an upgrade. 
 [Blueprint Registry](https://www.blueprintregistry.com/registry/AliePlusNate)
 
-Thirdly, we'd love just as much if you made a donation to one of our favorite nonprofits in our name.
+Thirdly, we'd love just as much if you made a donation to one of our favorite nonprofits in our name. These three are near and dear to our hearts:
 [HIP Housing](http://hiphousing.org/) 
 [SF Society for the Protection of Crulity to Animals ](https://www.sfspca.org/)
 [American Civil Liberites Union ](https://www.aclu.org/)
