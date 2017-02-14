@@ -7,7 +7,7 @@ layout: page
 
 ## Friday, August 18
 
-**Welcome Party**: We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you, so we're going to do an open-house style welcome reception. Come say hi and drink a beer. More details coming soon.
+**Welcome Party**: We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you, so we're going to do an open-house style welcome reception. Come say hi and drink a beer. Casual attire. More details coming soon.
 
 ## Saturday, August 19
 
@@ -22,7 +22,7 @@ San Francisco, CA 94110<br>
 
 ## Sunday, August 20
 
-**Hangover Brunch**: Again, we are all about making the most of this weekend! Why stop the fun after Saturday night?! Before you head back home, come say bye, eat a donut and drink a mimosa. This after-party is open to all of our guests and will be hosted by Robert and Marleen Sobczak at their VRBO rental. Drop by anytime between 11:00am-3:00pm. Very casual attire encouraged.
+**Hangover Brunch**: Again, we are all about making the most of this weekend! Why stop the fun after Saturday night?! Before you head back home, come say bye, eat a donut and drink a mimosa. This after-party is open to all of our guests and will be hosted by Robert and Marleen Sobczak at their VRBO rental. Drop by anytime between 11:00am-3:00pm. Veryyyy casual attire encouraged.
 
 545 Clipper Street 
 San Francisco, CA 94114
