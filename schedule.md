@@ -20,4 +20,4 @@ San Francisco, CA 94110<br>
 
 ## Sunday, August 20
 
-**Hangover Brunch**: Again, we are all about making the most of this weekend! Why stop the fun after Saturday night?! Before you head back home, come say bye, eat a donut and drink a mimosa. This after-party is open to all of our guests and will be hosted by Robert and Marleen Sobczak at their VRBO rental, located at 545 Clipper St., San Francisco CA 94114. Drop by anytime between 11:00am-3:00pm.
+**Hangover Brunch**: Again, we are all about making the most of this weekend! Why stop the fun after Saturday night?! Before you head back home, come say bye, eat a donut and drink a mimosa. This after-party is open to all of our guests and will be hosted by Robert and Marleen Sobczak at their VRBO rental, located at 545 Clipper St., San Francisco CA 94114. Drop by anytime between 11:00am-3:00pm. Very casual attire.
