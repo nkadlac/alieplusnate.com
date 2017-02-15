@@ -13,7 +13,7 @@ layout: page
 
 **The Big Day**: This is where all your dreams come true. Or, at least ours. We can't make any promises about yours.
 
-Cocktail Attire. *Please note the ceremony and dinner will take place outdoors, with dancing and drinks to follow inside. The ground is uneven in many spots, stilettos and pointy heels are not recommended. Also note that in Northern California, it gets cold almost every night, regardless of how hot it is during the day. Light layers recommended!*
+Cocktail Attire. *Please note the ceremony and dinner will take place outdoors, with dancing and drinks to follow inside. The ground is uneven in many spots, stilettos and pointy heels are not recommended. Also note that in Northern California, it gets cold almost every night, regardless of how hot it is during the day. We'll have some heat lamps for your comfort but recommend light layers!*
 
 Stern Grove - Trocadero Clubhouse<br>
 2750 19th Avenue<br>
