@@ -7,7 +7,12 @@ layout: page
 
 ## Friday, August 18
 
-**Welcome Party**: We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you, so we're going to do an open-house style welcome reception. Come say hi and drink a beer. Casual attire. More details coming soon.
+**Welcome Party**: We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you, so Judy and Gene Kadlac are going to host an open-house style welcome reception. Stop by anytime between 7:00pm-9:00m and drink a beer on us! Casual attire. 
+
+[View map](https://www.google.com/maps/place/3309+Mission+St,+San+Francisco,+CA+94110/@37.7439537,-122.422841,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e4324c3aedf:0x51ea023ac109b366!8m2!3d37.7439495!4d-122.4206523)
+
+3309 1/2 Mission Street
+San Francisco, CA 94110
 
 ## Saturday, August 19
 
