@@ -14,7 +14,7 @@ San Francisco, CA 94110
 
 [View map](https://www.google.com/maps/place/3309+Mission+St,+San+Francisco,+CA+94110/@37.7439537,-122.422841,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e4324c3aedf:0x51ea023ac109b366!8m2!3d37.7439495!4d-122.4206523)
 
-*Please note, this is a private residence that doubles as an event space. The front door will be unlocked so please let yourself in. It looks very unassuming from the street, but the address is clearly visible. If you're not sure you're in the right place, feel free to call Alie or Nate! When you're standing outside the front door, you'll see a restaurant called Good Frikin Chicken right across the street, on the opposite side of Mission St.*
+*Please note, this is a private residence that doubles as an event space. The front door will be unlocked, so please let yourself in. It looks very unassuming from the street, but the address is clearly visible. If you're not sure you're in the right place, feel free to call Alie or Nate! When you're standing outside the front door, you'll see a restaurant called Good Frikin Chicken right across the street, on the opposite side of Mission St.*
 
 ## Saturday, August 19
 
