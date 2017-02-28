@@ -7,7 +7,10 @@ layout: page
 
 ## Friday, August 18
 
-**Welcome Party**: We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you! Judy and Gene Kadlac are hosting an open-house Welcome Reception. Stop by anytime between 7:00pm-9:00pm to say "hi" and drink a beer on us! Casual attire. 
+**Welcome Party**: 
+
+![outside.jpg](/uploads/outside.jpg)
+We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you! Judy and Gene Kadlac are hosting an open-house Welcome Reception. Stop by anytime between 7:00pm-9:00pm to say "hi" and drink a beer on us! Casual attire. 
 
 3309 1/2 Mission Street<br>
 San Francisco, CA 94110
@@ -19,6 +22,7 @@ San Francisco, CA 94110
 ## Saturday, August 19
 
 **The Big Day**: This is where all your dreams come true. Or, at least ours. We can't make any promises about yours.
+![sterngrove.jpg](/uploads/sterngrove.jpg)
 
 Cocktail Attire. *Please note, the ceremony and dinner will take place outdoors, with dancing and drinks to follow inside. The ground is uneven in many spots, stilettos and pointy heels are not recommended. Also note that in Northern California, it gets cold almost every night, regardless of how hot it is during the day. We'll have some heat lamps for your comfort but recommend light layers!*
 
