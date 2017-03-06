@@ -66,9 +66,10 @@ Both San Francisco (SFO) and Oakland (OAK) airports are options for flying into 
 
 If you do prefer to use a taxi, it's a good idea to keep these phone numbers on hand, so you can call one if you need a pick-up.
 
-Yellow Cab 415-333-3333
-SF Green Cab 415-626-4733
-CityWide Taxi 415-643-9500
+Yellow Cab 415-333-3333<br>
+Flywheel Taxi 415-970-1300<br>
+SF Green Cab 415-626-4733<br>
+CityWide Taxi 415-643-9500<br>
 
 *Side note:* Of course, renting a car is also an option. However, if your hotel or Airbnb does not have parking provided, you may want to reconsider renting a car. PARKING IN SAN FRANCISCO IS A NIGHTMARE. You could be circling for 30 minutes before finding a spot on the street. Parking on steep hills can also be challenging if you're not already used to it. True Story: Alie did not drive for the first two weeks of living in San Francisco because she was so intimidated by the hills. It took her another 2 months of adjusting before she could drive without sweaty palms. Nate had no problem with any of this. Choose your own adventure!
 
