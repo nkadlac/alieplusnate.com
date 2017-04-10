@@ -8,7 +8,7 @@ layout: page
 ## Friday, August 18
 
 **Welcome Party**: 
-Location: TBD
+Location: TBD <br>
 We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you! Judy and Gene Kadlac are hosting an open-house Welcome Reception. Stop by anytime between 7:00pm-9:00pm to say "hi" and drink a beer on us! Casual attire. 
 
 
