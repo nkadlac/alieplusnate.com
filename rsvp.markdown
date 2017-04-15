@@ -5,4 +5,6 @@ position: 6
 layout: page
 ---
 
+Hello there. Please RSVP by July 2nd. Thank you.
+
 <div data-paperform-id="rsvp"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed"; document.body.appendChild(script); })()</script>
