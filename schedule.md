@@ -40,5 +40,4 @@ Again, we are all about making the most of this weekend! Why stop the fun after 
 545 Clipper Street<br>
 San Francisco, CA 94114
 
-[View map]
-(https://www.google.com/maps/place/545+Clipper+St,+San+Francisco,+CA+94114/@37.7484612,-122.4392457,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e0d393bdde3:0xeee1a60534295003!8m2!3d37.748457!4d-122.437057)
+[View Map >>](https://www.google.com/maps/place/545+Clipper+St,+San+Francisco,+CA+94114/@37.7485302,-122.4392783,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e0d3ec963e7:0x20e62abfa65455e9!8m2!3d37.748526!4d-122.4370896)
