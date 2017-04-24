@@ -9,10 +9,11 @@ layout: page
 
 **Welcome Party**:
 ![sterngrove.jpg](/uploads/peerspace.jpg)
-1890 Bryant Street, Suite 408<br>
-San Francisco, CA 94110<br>
 
 We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you! Judy and Gene Kadlac are hosting an open-house Welcome Reception. Stop by anytime between 7:30pm-9:30pm to say "hi" and drink a beer on us! Casual attire.
+
+1890 Bryant Street, Suite 408<br>
+San Francisco, CA 94110<br>
 
 
 
