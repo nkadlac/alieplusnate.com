@@ -14,7 +14,7 @@ We know a lot of you are taking the time and money to travel across the country 
 
 1890 Bryant Street, Suite 408<br>
 San Francisco, CA 94110<br>
-[View Map](https://www.google.com/maps/place/1890+Bryant+St+%23408,+San+Francisco,+CA+94110/@37.7633053,-122.4129434,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e305a59cbff:0xb3ffe4e2131d9b05!8m2!3d37.7633011!4d-122.4107547)
+[View Map >>](https://www.google.com/maps/place/1890+Bryant+St,+San+Francisco,+CA+94110/@37.7633053,-122.4129434,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e305a59cbff:0xf3a1c662fc8f12ba!8m2!3d37.7633011!4d-122.4107547)
 
 
 ## Saturday, August 19
@@ -29,7 +29,7 @@ This is where all your dreams come true. Or, at least ours. We can't make any pr
 Stern Grove - Trocadero Clubhouse<br>
 2750 19th Avenue<br>
 San Francisco, CA 94110<br>
-[View map](https://www.google.com/maps/place/Trocadero+Clubhouse/@37.7361793,-122.4773553,17z/data=!4m13!1m7!3m6!1s0x808f7d9607230b99:0xdc23844628562c9b!2s2750+19th+Ave,+San+Francisco,+CA+94132!3b1!8m2!3d37.7361793!4d-122.4751666!3m4!1s0x0:0xe93215d73ebc37b5!8m2!3d37.7361644!4d-122.478177)
+[View Map >>](https://www.google.com/maps/place/2750+19th+Ave,+San+Francisco,+CA+94132/@37.7361835,-122.4773553,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7d9607230b99:0xdc23844628562c9b!8m2!3d37.7361793!4d-122.4751666)
 
 ## Sunday, August 20
 
