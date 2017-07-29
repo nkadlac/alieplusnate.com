@@ -9,11 +9,12 @@ layout: page
 
 **Welcome Party**:
 ![sterngrove.jpg](/uploads/peerspace.jpg)
-1890 Bryant Street, Suite 408<br>
-San Francisco, CA 94110<br>
 
 We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you! Judy and Gene Kadlac are hosting an open-house Welcome Reception. Stop by anytime between 7:30pm-9:30pm to say "hi" and drink a beer on us! Casual attire.
 
+1890 Bryant Street, Suite 408<br>
+San Francisco, CA 94110<br>
+[View Map >>](https://www.google.com/maps/place/1890+Bryant+St,+San+Francisco,+CA+94110/@37.7633053,-122.4129434,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e305a59cbff:0xf3a1c662fc8f12ba!8m2!3d37.7633011!4d-122.4107547)
 
 
 ## Saturday, August 19
@@ -23,12 +24,12 @@ We know a lot of you are taking the time and money to travel across the country 
 
 This is where all your dreams come true. Or, at least ours. We can't make any promises about yours. Cocktail Attire.
 
-*Please note, the ceremony and dinner will take place outdoors, with dancing and drinks to follow inside. The ground is uneven in many spots, stilettos and pointy heels are not recommended. Also note that in Northern California, it gets cold almost every night, regardless of how hot it is during the day. We'll have some heat lamps for your comfort but recommend light layers!*
+*Please note, the ceremony and dinner will take place outdoors, with dancing and drinking to follow inside. The ground is uneven in many spots, stilettos and pointy heels are not recommended. Also note that in Northern California, it gets cold almost every night, regardless of how hot it is during the day. We'll have some heat lamps for your comfort but recommend light layers!*
 
 Stern Grove - Trocadero Clubhouse<br>
 2750 19th Avenue<br>
 San Francisco, CA 94110<br>
-[View map »](https://www.google.com/maps/place/Trocadero+Clubhouse/@37.7361793,-122.4773553,17z/data=!4m13!1m7!3m6!1s0x808f7d9607230b99:0xdc23844628562c9b!2s2750+19th+Ave,+San+Francisco,+CA+94132!3b1!8m2!3d37.7361793!4d-122.4751666!3m4!1s0x0:0xe93215d73ebc37b5!8m2!3d37.7361644!4d-122.478177)
+[View Map >>](https://www.google.com/maps/place/2750+19th+Ave,+San+Francisco,+CA+94132/@37.7361835,-122.4773553,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7d9607230b99:0xdc23844628562c9b!8m2!3d37.7361793!4d-122.4751666)
 
 ## Sunday, August 20
 
@@ -39,4 +40,4 @@ Again, we are all about making the most of this weekend! Why stop the fun after 
 545 Clipper Street<br>
 San Francisco, CA 94114
 
-[View map](https://www.google.com/maps/place/545+Clipper+St,+San+Francisco,+CA+94114/@37.7484612,-122.4392457,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e0d393bdde3:0xeee1a60534295003!8m2!3d37.748457!4d-122.437057)
+[View Map >>](https://www.google.com/maps/place/545+Clipper+St,+San+Francisco,+CA+94114/@37.7485302,-122.4392783,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e0d3ec963e7:0x20e62abfa65455e9!8m2!3d37.748526!4d-122.4370896)
