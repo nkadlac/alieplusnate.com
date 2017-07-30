@@ -26,6 +26,8 @@ This is where all your dreams come true. Or, at least ours. We can't make any pr
 
 *Please note, the ceremony and dinner will take place outdoors, with dancing and drinking to follow inside. The ground is uneven in many spots, stilettos and pointy heels are not recommended. Also note that in Northern California, it gets cold almost every night, regardless of how hot it is during the day. We'll have some heat lamps for your comfort but recommend light layers!*
 
+4:00pm ceremony
+4:30pm - 10:30pm Reception
 Stern Grove - Trocadero Clubhouse<br>
 2750 19th Avenue<br>
 San Francisco, CA 94110<br>
@@ -37,6 +39,7 @@ San Francisco, CA 94110<br>
 ![brunch.jpeg](/uploads/brunch.jpeg)
 Again, we are all about making the most of this weekend! Why stop the fun after Saturday night?! Before you head back home, come say bye, eat a donut and drink a mimosa. This after-party is open to all of our guests and will be hosted by Robert and Marleen Sobczak at their VRBO rental. Drop by anytime between 11:00am-3:00pm. Veryyyy casual attire encouraged.
 
+11:00am - 3:00pm
 545 Clipper Street<br>
 San Francisco, CA 94114
 
