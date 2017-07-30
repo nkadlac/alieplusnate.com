@@ -12,6 +12,7 @@ layout: page
 
 We know a lot of you are taking the time and money to travel across the country to celebrate our wedding. And that is *everything* to us. We want to maximize our time with each and everyone of you! Judy and Gene Kadlac are hosting an open-house Welcome Reception. Stop by anytime between 7:30pm-9:30pm to say "hi" and drink a beer on us! Casual attire.
 
+7:30pm - 9:30pm<br>
 1890 Bryant Street, Suite 408<br>
 San Francisco, CA 94110<br>
 [View Map >>](https://www.google.com/maps/place/1890+Bryant+St,+San+Francisco,+CA+94110/@37.7633053,-122.4129434,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e305a59cbff:0xf3a1c662fc8f12ba!8m2!3d37.7633011!4d-122.4107547)
