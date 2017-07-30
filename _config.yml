@@ -16,4 +16,4 @@ twitter_username: kadlac
 github_username: nkadlac
 markdown: kramdown
 gems:
-  - jekyll-sitemap
+- jekyll-sitemap
