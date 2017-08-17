@@ -34,6 +34,8 @@ Stern Grove - Trocadero Clubhouse<br>
 San Francisco, CA 94110<br>
 [View Map >>](https://www.google.com/maps/place/2750+19th+Ave,+San+Francisco,+CA+94132/@37.7361835,-122.4773553,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7d9607230b99:0xdc23844628562c9b!8m2!3d37.7361793!4d-122.4751666)
 
+Enter via 19th Avenue and Sloat Boulevard - You want to be dropped off at the clubhouse in Stern Grove, at the bottom of the park.
+
 ## Sunday, August 20
 
 **Hangover Brunch**:
